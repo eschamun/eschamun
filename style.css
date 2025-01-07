@@ -1,27 +1,27 @@
 #skills {
   display: block;
   position: relative;
-  left: 250px;
+  left: 13%;
 }
 #certificates {
   display: block;
   max-width: 60%;
   position: relative;
-  left: 300px;
+  left: 19%;
 }
 #experience {
   max-width: 700px;
   position:relative;
-  left: 200px;
+  left: 10%;
 }
 #about-me {
   max-width: 800px;
   position:relative;
-  left: 200px;
+  left: 10%;
 }
 #education {
   position: relative;
-  left: 200px;
+  left: 10%;
 }
 header {
   position:fixed;
