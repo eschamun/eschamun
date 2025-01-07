@@ -38,3 +38,6 @@ header {
   z-index: 2;
   border: 15px solid lightsalmon;
 }
+* {
+  box-sizing: border-box;
+}
