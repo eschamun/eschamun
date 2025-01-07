@@ -1,3 +1,6 @@
 #skills {
-  
+  display: inline-block;
+}
+#certificates {
+  display: inline-block;
 }
