@@ -1,14 +1,25 @@
 #skills {
-  display: inline-block;
-  max-width: 46%;
+  display: block;
+  position: relative;
+  left: 250px;
 }
 #certificates {
-  display: inline-block;
-  max-width: 46%;
+  display: block;
+  max-width: 60%;
+  position: relative;
+  left: 300px;
 }
 #experience {
   max-width: 700px;
+  position:relative;
+  left: 200px;
 }
 #about-me {
   max-width: 800px;
+  position:relative;
+  left: 200px;
+}
+#education {
+  position: relative;
+  left: 200px;
 }
