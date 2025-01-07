@@ -23,3 +23,18 @@
   position: relative;
   left: 200px;
 }
+header {
+  position:fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 99vw;
+  background-color: #294969;
+  color: ghostwhite;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  z-index: 2;
+  border: 15px solid lightsalmon;
+}
