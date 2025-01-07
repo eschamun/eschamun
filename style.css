@@ -1,6 +1,11 @@
 #skills {
   display: inline-block;
+  max-width: 46%;
 }
 #certificates {
   display: inline-block;
+  max-width: 46%;
+}
+#experience {
+  max-width: 100%;
 }
